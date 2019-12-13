@@ -14,11 +14,11 @@
 
 добавляем в /usr/local/lib/python3.6/dist-packages/imutils/video/webcamvideostream.py
 
-`def get_width(self):
-	return self.stream.get(3)
+`def get_width(self):`
+`	return self.stream.get(3)`
 
-def get_height(self):
-	return self.stream.get(4)
+`def get_height(self):`
+`	return self.stream.get(4)`
 `
 
 подключите камеру к jetson
