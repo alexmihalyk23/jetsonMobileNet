@@ -4,9 +4,21 @@
 
 зарегистрироваться в nvidia
 
+после загрузки запускаем deb пакет и устанавливаем
+
+затем запускаем 
+
+`sdkmanager`
+
+затем входим в свой аккаунт nvidia
+
+
+
 подключаем jetson к компьютеру по micro-usb
 
 выбираем все модули для установки и следуем инструкциям sdkmanager
+
+https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html
 
 для mobile net 
 
