@@ -20,6 +20,8 @@ ap.add_argument("-m", "--model", required=True,
 	help="path to Caffe pre-trained model")
 ap.add_argument("-o", "--output", required=True,
 	help="output file")
+ap.add_argument("-i", "--input", required=True,
+	help="input file")
 ap.add_argument("-c", "--confidence", type=float, default=0.2,
 	help="minimum probability to filter weak detections")
 args = vars(ap.parse_args())
@@ -39,7 +41,7 @@ print("[INFO] loading model...")
 # initialize the video stream, allow the cammera sensor to warmup,
 # and initialize the FPS counter
 print("[INFO] starting video stream...")
-vs = VideoStream(src=0).start() #or 1
+vs = VideoStream(src=int(args["input"])).start() #or 1
 time.sleep(2.0)
 fps = FPS().start()
 #fourcc = cv2.VideoWriter_fourcc(*'MJPG')
