@@ -20,7 +20,17 @@
 
 https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html
 
-![Screenshot]
+![jetson1](https://user-images.githubusercontent.com/35634279/70810307-1df55880-1df6-11ea-9786-8e25110d46f9.png)
+
+![jetson2](https://user-images.githubusercontent.com/35634279/70810401-4715e900-1df6-11ea-86fb-e5f79e1c247e.png)
+
+![jetson3](https://user-images.githubusercontent.com/35634279/70810460-657be480-1df6-11ea-9211-9b1a1032b39e.png)
+
+![jetson4](https://user-images.githubusercontent.com/35634279/70810478-6e6cb600-1df6-11ea-9eb4-68e99a89a9c5.png)
+
+![jetson5](https://user-images.githubusercontent.com/35634279/70810508-7cbad200-1df6-11ea-8e03-283c4184b1df.png)
+
+
 
 для mobile net 
 
