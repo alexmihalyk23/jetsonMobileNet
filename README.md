@@ -30,4 +30,4 @@ def get_height(self):
 
 `cd jetsonMobileNet`
 
-`python3 real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel -o h.avi`
+`python3 real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel -i 1 -o h.avi`
