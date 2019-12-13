@@ -20,6 +20,8 @@
 
 https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html
 
+![Screenshot]
+
 для mobile net 
 
 `sudo pip3 install imutils`
