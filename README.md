@@ -36,7 +36,7 @@
 
 `sudo pip3 install imutils`
 
-добавляем в /usr/local/lib/python3.6/dist-packages/imutils/video/webcamvideostream.py
+добавляем в `/usr/local/lib/python3.6/dist-packages/imutils/video/webcamvideostream.py`
 
 ```python
 def get_width(self):
