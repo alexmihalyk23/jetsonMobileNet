@@ -16,9 +16,9 @@
 
 подключаем jetson к компьютеру по micro-usb
 
-выбираем все модули для установки и следуем инструкциям sdkmanager
+выбираем все модули для установки и [следуем инструкциям](https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html) sdkmanager
 
-https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html
+
 
 ![jetson1](https://user-images.githubusercontent.com/35634279/70810307-1df55880-1df6-11ea-9786-8e25110d46f9.png)
 
